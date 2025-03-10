@@ -1,5 +1,6 @@
 # R352_Task2
 We implement and compare the following numerical methods:-
+
   1-Forward Euler (FE)
   2-Modified Euler (ME)
   3-Backward Euler (BE)
@@ -10,6 +11,7 @@ We implement and compare the following numerical methods:-
   8-Adams-Moulton 2-Step (AM2)
   ------------------------------------------------------------------
 Numerical Methods Overview:-
+
   1-Forward Euler (FE):-
     Explicit method.
     Simple but low accuracy.
