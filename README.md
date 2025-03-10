@@ -90,10 +90,13 @@ Plots:-
     1-RK4 and AM2 almost overlap with the exact solution.
     2-FE and BE show noticeable deviations.
     3-RK2 and RK3 provide a good balance between accuracy and computational cost.
-    ----------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------
 Conclusion:-
 
   1-RK4 is the most accurate and reliable method for this problem.
+  
   2-AM2 is also highly accurate but requires more computational effort.
+  
   3-FE and BE are simple but less accurate, suitable for quick approximations or stiff problems.
+  
   4-Multi-step methods like AB2 and AM2 are useful when past solution values are available.
