@@ -2,12 +2,19 @@
 We implement and compare the following numerical methods:-
 
   1-Forward Euler (FE)
+  
   2-Modified Euler (ME)
+  
   3-Backward Euler (BE)
+  
   4-Runge-Kutta 2nd Order (RK2)
+  
   5-Runge-Kutta 3rd Order (RK3)
+  
   6-Runge-Kutta 4th Order (RK4)
+  
   7-Adams-Bashforth 2-Step (AB2)
+  
   8-Adams-Moulton 2-Step (AM2)
   ------------------------------------------------------------------
 Numerical Methods Overview:-
